@@ -4,7 +4,7 @@ import Navbar from '../components/navbar/Navbar'
 function Login() {
   return (
     <>
-    <Navbar/>
+    <h1>Login</h1>
     </>
   )
 }
